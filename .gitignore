@@ -1,0 +1,12 @@
+﻿__pycache__/
+*.pyc
+server.log
+out.txt
+python32/
+python32.zip
+Server32/
+extracted_dlls/
+dll zip files/
+temp_repo/
+*.dll
+*.exe
